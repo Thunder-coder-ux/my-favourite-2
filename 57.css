@@ -1,0 +1,40 @@
+body{
+    text-align:center;
+    background-color:rgba(173, 235, 116, 0.952);
+  }
+  img{
+    border-radius:50%;
+    width:100px;
+  }
+  h1{
+    text-shadow:2px 2px #ff0000
+  }
+  p{
+    font-size:18px;
+    color:blue;
+  }
+  #About{
+    padding:20px;
+   font-size:18px;
+    text-align:center;
+    background-color: aquamarine;
+  }
+
+  .menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right:30px;
+    cursor: pointer;
+    background-color: dimgray;
+  }
+    li{
+      display: inline;
+    }
+
+    a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
